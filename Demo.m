@@ -1,3 +1,4 @@
 clc;close all;
 X = 1;
-Y = 2S
+Y = 2;
+m = x+y;
